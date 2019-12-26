@@ -1,2 +1,2 @@
 kjxz-zuul: 
- evn: test_environment
+ env: test_environment
